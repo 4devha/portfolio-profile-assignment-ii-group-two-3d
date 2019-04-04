@@ -1,0 +1,24 @@
+.foot {
+  border-top: solid 1px;
+  border-color: lightgray;
+}
+
+.style {
+  border-bottom: solid 1px;
+  border-color: lightgray;
+}
+.one img {
+  height: 200px;
+  width: 190px;
+  border-radius: 50%;
+}
+.btn:link,
+.btn:visited {
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 100px;
+  padding: 15px 40px;
+  transition: all 0.2s;
+  position: relative;
+}
